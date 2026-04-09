@@ -13,5 +13,5 @@
   "ubicacion": "San Fernando, Cádiz",
   "filosofia": "Eficiencia, seguridad y buen cableado.",
   "estado": "Estudiando 2º de ASIR en Albor Croft",
-  "hobbies": ["Diseño Web", "Edición de vídeo", "Hardware"]
+  "hobbies": ["Diseño Web", "Música", "Hardware", "Innovación", "Emprendimiento"]
 }
