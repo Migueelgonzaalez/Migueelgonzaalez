@@ -8,10 +8,13 @@
 
 ```json
 {
-  "nombre": "Miguel González",
-  "rol": "SysAdmin & Network Technician",
-  "ubicacion": "San Fernando, Cádiz",
-  "filosofia": "Eficiencia, seguridad y buen cableado.",
-  "estado": "Estudiando 2º de ASIR en Albor Croft",
-  "hobbies": ["Diseño Web", "Música", "Hardware", "Innovación", "Emprendimiento"]
+  "nombre": "Miguel González García",
+  "perfil": "Resolutivo, alegre y proactivo",
+  "formacion": "2º de ASIR (Albor Croft)",
+  "experiencia": "Prácticas en Consultoría Tecnológica Tevolución (2025)",
+  "idiomas": {
+    "Ingles": "Nivel Medio",
+    "Frances": "Nivel Medio"
+  },
+  "movilidad": ["Carnet AM", "Vehículo propio", "Disponibilidad total"]
 }
