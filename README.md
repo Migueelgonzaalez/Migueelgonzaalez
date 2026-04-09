@@ -11,7 +11,7 @@
   "nombre": "Miguel González",
   "rol": "SysAdmin & Network Technician",
   "ubicacion": "San Fernando, Cádiz",
-  "habilidades": ["Redes", "Sistemas", "Hardware", "Diseño Web"],
+  "filosofia": "Eficiencia, seguridad y buen cableado.",
   "estado": "Estudiando 2º de ASIR en Albor Croft",
-  "hobbies": ["Diseño de páginas web", "Edición de fotos y vídeo", "Hardware"]
+  "hobbies": ["Diseño Web", "Edición de vídeo", "Hardware"]
 }
