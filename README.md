@@ -28,6 +28,7 @@ const developer = {
   <p align="center">
   📩 Mi CV: https://www.infojobs.net/candidate/cv/view/index.xhtml
 </p>
+
 -------------------------------------------------------------------------------------------------------------
 
 <p align="center">
