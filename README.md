@@ -4,7 +4,7 @@
 
 ## Administrador de Sistemas & Apasionado del Diseño Web
 
---------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
 
 ### 🌟 Sobre Mí
 
@@ -20,12 +20,17 @@ const developer = {
   hobbies: ["Diseño Web 💻", "Música 🎵", "Emprendimiento 🚀"]
 };
 ```
-----------------------------------------------------------------------------------------------------
-💡 Filosofía: "Aprender rápido, trabajar en equipo y crear soluciones que marquen la diferencia"
-🎯 Objetivo: Unir el mundo de la administración de sistemas con el diseño web innovador
-📫 Contacto: migongar2006@gmail.com
------------------------------------------------------------------------------------------------------
-💬 Random Dev Quote
-"La innovación distingue a los líderes de los seguidores."
+------------------------------------------------------------------------------------------------------------
+<p align="center">
+  💡 Filosofía: "Aprender rápido, trabajar en equipo y crear soluciones que marquen la diferencia"<br>
+  🎯 Objetivo: Unir el mundo de la administración de sistemas con el diseño web innovador<br>
+  📫 Contacto: migongar2006@gmail.com   </p> 
+  <p align="center">
+  📩 Mi CV: https://www.infojobs.net/candidate/cv/view/index.xhtml
+</p>
+-------------------------------------------------------------------------------------------------------------
 
-- Steve Jobs
+<p align="center">
+💬 Random Dev Quote
+"La innovación distingue a los líderes de los seguidores."- Steve Jobs
+ </p>
