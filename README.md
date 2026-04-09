@@ -14,7 +14,7 @@
 const developer = {
   nombre: "Miguel",
   ubicacion: "San Fernando, España 🇪🇸",
-  rol: "SysAdmin & Web Designer",
+  rol: "Administrador de sistemas informáticos",
   pasiones: ["Emprendimiento", "Innovación", "Tecnología"],
   aprendiendo: ["Administración de Sistemas en Red", "Desarrollo y Diseño Web"],
   hobbies: ["Diseño Web 💻", "Música 🎵", "Emprendimiento 🚀"]
