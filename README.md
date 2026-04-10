@@ -1,37 +1,35 @@
-<div align="center">
+<h1 align="center">Hola 👋  soy Miguel González García ✨ </h1> 
 
-# 👋 ¡Hola! Soy Miguel González
+<p align="left">
+  <a href="https://www.infojobs.net/candidate/cv/view/index.xhtml" target="blank"><img align="center" src="https://img.shields.io/badge/Infojobs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href = "mailto:migongar2006@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  </p>
+<br>
+<h2>Sobre mi 😃</h2>
+<!--Intro start-->
 
-## Administrador de Sistemas & Apasionado del Diseño Web
+<p align="left">
+🎓 ADMINISTRADOR DE SISTEMAS INFORMÁTICOS
 
-----------------------------------------------------------------------------------------------------------
+🎥 ESTUDIANTE de ASIR con ideas claras y con ganas de innovar y de emprender 📚 queriendo siempre aprender cosas nuevas 😵 con experiencia
+💻 experiencia personal mas la aprendida en clases y empresas como Tevolución
+📝 roles en el ámbito: diseños de web... proactivo... buen compañero...ambicioso ... emprendedor... administrador y técnico... y en un futuro quién sabe ☺️
 
-### 🌟 Sobre Mí
+📫 Contacto: **migongar2006@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
 
-</div>
-
-```javascript
-const developer = {
-  nombre: "Miguel",
-  ubicacion: "San Fernando, España 🇪🇸",
-  rol: "Administrador de sistemas informáticos",
-  pasiones: ["Emprendimiento", "Innovación", "Tecnología"],
-  aprendiendo: ["Administración de Sistemas en Red", "Desarrollo y Diseño Web"],
-  hobbies: ["Diseño Web 💻", "Música 🎵", "Emprendimiento 🚀"]
-};
-```
-------------------------------------------------------------------------------------------------------------
-<p align="center">
-  💡 Filosofía: "Aprender rápido, trabajar en equipo y crear soluciones que marquen la diferencia"<br>
-  🎯 Objetivo: Unir el mundo de la administración de sistemas con el diseño web innovador<br>
-  📫 Contacto: migongar2006@gmail.com   </p> 
-  <p align="center">
-  📩 Mi CV: https://www.infojobs.net/candidate/cv/view/index.xhtml
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,apple,c,cs,cpp,php,py,css,html,js,mysql,sqlite,git,github,docker,vscode,linux,ai,ps&perline=12" />
+  </a>
 </p>
+<br>
+<!-------------------------->
+<div id="proyectos">
 
--------------------------------------------------------------------------------------------------------------
 
-<p align="center">
-💬 Random Dev Quote
-"La innovación distingue a los líderes de los seguidores."- Steve Jobs
- </p>
+
