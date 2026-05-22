@@ -35,4 +35,6 @@
 <h2 >Títulos certificados📋</h2>
 
 -Dominando ChatGPT con la API de OpenAI.
+
+
 -Fundamentos de la Inteligencia Artificial.
