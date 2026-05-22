@@ -11,7 +11,7 @@
 <p align="left">
 🎓 ADMINISTRADOR DE SISTEMAS INFORMÁTICOS
 
-🎥 ESTUDIANTE de ASIR con ideas claras y con ganas de innovar y de emprender 📚 queriendo siempre aprender cosas nuevas 😵 con experiencia
+🎥 TITULADO en ASIR con ideas claras y con ganas de innovar y de emprender 📚 queriendo siempre aprender cosas nuevas 😵 con experiencia
 💻 experiencia personal mas la aprendida en clases y empresas como Tevolución
 📝 roles en el ámbito: diseños de web... proactivo... buen compañero...ambicioso ... emprendedor... administrador y técnico... y en un futuro quién sabe ☺️
 
